@@ -1,0 +1,28 @@
+// bower.json
+{
+  "name": "angularjs-test",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Nguyen Quoc Dat <datnq2010@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1",
+    "angular-material": "^1.1.0",
+    "angular-ui-router": "ui-router#^0.3.1",
+    "restangular": "^1.5.2",
+    "bootstrap": "^3.3.7",
+    "ngstorage": "^0.3.11",
+    "socket.io": "^1.4.8",
+    "bower": "*",
+    "install": "^1.0.4",
+    "angular-socket-io": "^0.7.0"
+  }
+}
